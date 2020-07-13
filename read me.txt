@@ -1,0 +1,24 @@
+ENG
+1. Launch the application: click on the application icon to open it.
+
+2- In the main menu you have the choice between a piano and a training piano.
+You choose your piano with the mouse.
+For the first choice: you will have a piano with 21 white and 15 black keys
+The second choice: a 9-key white training piano.
+
+3. As soon as you choose the piano, you put your hands on Leap Motion (20 cm) and start playing.
+
+4- To return to the main menu, simply click on the back button with the mouse.
+
+
+FR
+1.  Lancer l’application : cliquer sur l’icône de l’application pour l’ouvrir. 
+
+2- Dans le menu principal vous avez le choix entre un piano et un piano d'entraînement.
+Vous choisissez votre piano à l'aide de la souris.
+Pour le Premier choix : vous aurez un piano à 21 touches blanches et 15 noires
+Le deuxième choix : un piano d'entraînement de 9 touches blanche.
+
+3.  Dès que vous choisissez le piano, vous posez vos mains ou dessus de Leap Motion (20 cm) et commencez à jouer. 
+
+4- Pour retourner au Menu principal il suffit de cliquer sur le bouton retour à l'aide de la souris. 
